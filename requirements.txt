@@ -1,0 +1,5 @@
+# cv2 comes from custom OpenCV build
+numpy==1.20.1
+pandas==1.2.3
+matplotlib==3.3.4
+plotnine==0.7.1
